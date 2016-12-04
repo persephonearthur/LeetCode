@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode Solutions (Java Version)
+LeetCode Solutions
